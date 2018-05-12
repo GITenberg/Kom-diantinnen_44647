@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42857
     wikipedia: http://de.wikipedia.org/wiki/Walter_Bloem
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44647#Kom-diantinnen
 gutenberg_issued: '2014-01-12'
 gutenberg_type: Text
 identifiers:
